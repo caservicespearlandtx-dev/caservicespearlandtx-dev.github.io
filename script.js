@@ -47,6 +47,7 @@ document.querySelectorAll('.faq-item').forEach(item => {
 const BLOCKED_SLOTS = {
   // '2026-08-03': ['9:00 AM', '10:00 AM'],
   // '2026-08-07': 'ALL',
+  
 };
 
 const TIME_SLOTS = [
